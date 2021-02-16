@@ -5,6 +5,7 @@ The clock generator is here ...
 
 https://github.com/tvanas/uart-vhdl/blob/master/vhdl/clk_18432.vhd
 
-
+## Screenshot
+![Screenshot](screenshot.png)
 
 
